@@ -17,7 +17,7 @@ const Ryan = {
             css: ["Semantic UI", "Element UI"]
         },
         backEnd: {
-            Java: ["Spring Boot"],
+            Java: ["SSM","Spring Boot"],
         },
         databases: ["MySQL", "Redis"],
     }
