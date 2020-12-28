@@ -10,14 +10,14 @@
 ```javascript
 const Ryan = {
     pronouns: "He" | "Him",
-    code: ["Java","JavaScript"],
+    code: ["Java"],
     technologies: {
         frontEnd: {
             js: ["Vue"],
             css: ["Semantic UI", "Element UI"]
         },
         backEnd: {
-            Java: ["Spring Boot"],
+            Java: ["SSM","Spring Boot","ActiveMQ","Spring Cloud"],
         },
         databases: ["MySQL", "Redis"],
     }
