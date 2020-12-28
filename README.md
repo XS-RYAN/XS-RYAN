@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! This is Ryan.</h2>
 
-- 🌎 Find me around the web:http://49.234.95.180:8080  👈
+- 🌎 Find me around the web:http://101.133.238.253:8090/ 👈
 - 📫 Reach me asap: ryanyang221@gamil.com  👈
 
 
